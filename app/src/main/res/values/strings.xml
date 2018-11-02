@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Homework</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--Edit Pets Name  -->
+    <string name="cat_name">This cat\'s new name is</string>
+    <string name="dog_name">This dog\'s new name is</string>
+    <string name="fox_name">This fox\'s new name is</string>
+</resources>
