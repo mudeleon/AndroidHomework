@@ -1,6 +1,6 @@
 # AndroidHomework
 
-The Airfrov product team loves their pets so below is a hi-fi design of an app that shows a variety of random cats, dogs, and foxes. Build this app from scratch.
+The Airfrov product team loves their pets so below is a hi-fi design of an app that shows a variety of random cats, dogs, and foxes.
 
 
 App Design :
